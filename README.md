@@ -1,3 +1,3 @@
 # Lesespuren
 
-Lesespuren für Zyklus 2
+Lesespuren für Zyklus 2: https://redabus.github.io/lesespur/
